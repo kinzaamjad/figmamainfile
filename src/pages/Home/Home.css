@@ -1,0 +1,23 @@
+#chat h1, #login h1{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    font-family: 'Crimson Text', serif;
+    color: rgba(33, 37, 41, 1);
+}
+#chat p, #login p{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18.75px;
+    color: rgba(33, 37, 41, 0.5);
+}
+#chat a.btn, #login a.btn{
+    width: 170px;
+    height: 48px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

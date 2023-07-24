@@ -1,0 +1,39 @@
+header{
+    background-color: rgba(116, 198, 157, 1);
+    padding-top: 75px;
+    /* height: 536px; */
+    padding-bottom: 6rem;
+    color: #fff;
+}
+
+header h5{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 5px;
+}
+
+header h1{
+    font-size: 40px;
+    line-height: 50px;
+    font-weight: 700;
+    font-family: 'Crimson Text', serif;
+}
+
+header p{
+    font-size: 15px;
+    line-height: 18.75px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+header a.btn{
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 400;
+    width: 170px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

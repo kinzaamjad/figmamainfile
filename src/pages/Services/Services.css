@@ -1,0 +1,82 @@
+#services .text-section h5{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: rgba(116, 198, 157, 1);
+}
+
+#services .text-section h1{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    font-family: 'Crimson Text', serif;
+}
+
+#services .text-section p{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.text-section{
+    width: 411px;
+    height: 162px;
+}
+
+#services a.btn{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    width: 170px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#services .card{
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 20px;
+}
+
+#services .card p.plan{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18.75px;
+}
+
+#services .card .card-title{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#services .card .card-title span{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18.75px;
+    color: rgba(33, 37, 41, 0.5);
+}
+
+#services .card .card-text{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18.75px;
+    color: rgba(33, 37, 41, 0.5);
+}
+
+#services .list p{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18.75px;
+    color: rgba(33, 37, 41, 1);
+}

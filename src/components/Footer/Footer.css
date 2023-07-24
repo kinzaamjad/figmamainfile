@@ -1,0 +1,19 @@
+footer{
+    background-color: rgba(116, 198, 157, 1);
+    height: 125px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer p{
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 400;
+    text-align: right;
+    color: #fff;
+}
+
+footer a{
+    padding-right: 20px;
+}

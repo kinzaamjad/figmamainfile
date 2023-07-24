@@ -1,0 +1,33 @@
+#contact .text-section h1{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    font-family: 'Crimson Text', serif;
+}
+
+#contact .text-section p{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.text-section{
+    width: 411px;
+    height: 162px;
+}
+
+#contact a.btn{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    width: 170px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#contact input, #contact textarea{
+    background-color: rgba(238, 238, 238, 1);
+}
